@@ -1,0 +1,3 @@
+1 - Abra o Windows PowerShell, cole o comanado
+2 - irm https://massgrave.dev/get | iex    (Cole este parâmetro no Windows PowerShell)
+3 - Digite 1 e confirme com Enter.
